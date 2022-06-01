@@ -30,7 +30,7 @@ wharf
   ; ' w p z  m d b j x
 ```
 ---
-Another fun option is to throw in a repeat key! We're doing a lot of optimizing for stagger, and much of the time it's difficult to fit a repeat key into stagger because there's no nearby, extra thumb key to put it on. Well, with this configuration it's easy to just slap one on above `i`. Analyzers will start to complain about all the SFB on `s` because of the punctuation, but nowadays I'm in the camp that we've cared too much about optimizing for punctuation in the past. People normally slow down on punctuation like `.` anyways because they're shifting letters, so it being SFB heavy doesn't really even matter. Enjoy your incredibly low consecutive finger usage, low distance, and high atlernation. 
+Another fun option is to throw in a repeat key! We're doing a lot of optimizing for stagger, and much of the time it's difficult to fit a repeat key into stagger because there's no nearby, extra thumb key to put it on. Well, with this configuration it's easy to just slap one on above `i`. Analyzers will start to complain about all the SFB on `s` because of the punctuation, but nowadays I'm in the camp that we've cared too much about optimizing for punctuation in the past. People normally slow down on punctuation like `.` anyways because they're shifting letters, so it being SFB heavy doesn't really even matter. Enjoy your incredibly low consecutive finger usage, low distance, and high alternation. 
 ```
 wharrf
 # u o c f  q k n l ,
