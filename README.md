@@ -34,4 +34,11 @@ i e a y g  v t h r s ,
 ; ' c p z  m d b j x
 ```
 ---
+This version makes `cy` easier to alt finger. A benefit of the flip is also that `eu/ue` and `ao/oa` are easier to alt, but `rl/lr` is difficult (for me) to alt. 
+```
+# u o c f  q k n l .
+i e a y g  v t h r s ,
+; ' w p z  m d b j x
+```
+---
 Remember, pinky can anything, and if you use a layout with finger placements the creator didn't intend for you go to hell.
