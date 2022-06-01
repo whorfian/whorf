@@ -29,9 +29,9 @@ i e a y g  v t h r s
 ---
 Another fun option is to throw in a repeat key! We're doing a lot of optimizing for stagger, and much of the time it's difficult to fit a repeat key into stagger because there's no nearby, extra thumb key to put it on. Well, with this configuration it's easy to just slap one on above `i`. Analyzers will start to complain about all the SFB on `s` because of the punctuation, but nowadays I'm in the camp that we've cared too much about optimizing for punctuation in the past. People normally slow down on punctuation like `.` anyways because they're shifting letters, so it being SFB heavy doesn't really even matter. Enjoy your incredibly low consecutive finger usage, low distance, and high atlernation. 
 ```
-# u o w f q k n l .
-i e a y g v t h r s ,
-; ' c p z m d b j x
+# u o w f  q k n l .
+i e a y g  v t h r s ,
+; ' c p z  m d b j x
 ```
 ---
 Remember, pinky can anything, and if you use a layout with finger placements the creator didn't intend for you go to hell.
