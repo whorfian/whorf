@@ -22,7 +22,7 @@ x j b z q  p c ' ; .
 ```
 
 ---
-This version of whorf takes advantage of row stagger and angle mod to keep the keys closer on `y` index. The heatmap for the `t` index is also more concentrated and a better handshape for what qwerty users are used to. This hand shape keeps the right index low most of the time, which will feel normal if you've used qwerty for a long time. Rolls like `nd` are a row jump but feel fine on row stagger. Even issues like `bl` feel more comfortable on this because of stagger. This version also makes `cy` easier to alt finger. A benefit of the flip is also that `eu/ue` and `ao/oa` are easier to alt, but `rl/lr` is difficult (for me) to alt.
+This version of whorf takes advantage of row stagger and angle mod (hitting qwerty zxc with ring, middle, index) to keep the keys closer on `y` index. The heatmap for the `t` index is also more concentrated and a better handshape for what qwerty users are used to. This hand shape keeps the right index low most of the time, which will feel normal if you've used qwerty for a long time. Rolls like `nd` are a row jump but feel fine on row stagger. Even issues like `bl` feel more comfortable on this because of stagger. This version also makes `cy` easier to alt finger. A benefit of the flip is also that `eu/ue` and `ao/oa` are easier to alt, but `rl/lr` is difficult (for me) to alt.
 ```
 wharf
 . u o c f  q k n l ,
@@ -38,4 +38,14 @@ wharrf
   ; ' w p z  m d b j x
 ```
 ---
+This version could be fun for wide mod. With wide mod you can put repeat key on right alt if you space with left thumb. 
+```
+whaarf
+' u o c f    q k n l x
+ i e a y g    v t h r s
+  , . w p z    m d b j 
+```
+---
+
+
 Remember, pinky can anything, and if you use a layout with finger placements the creator didn't intend for you go to hell.
